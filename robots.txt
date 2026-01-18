@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+sitemap: https://maximnightingale.github.io/pixiv-image/sitemap.xml
+
+User-Agent: GPTBot
+User-Agent: Google-Extended
+User-Agent: anthropic-ai
+User-Agent: ClaudeBot
+User-Agent: FacebookBot
+User-Agent: Applebot-Extended
+User-Agent: meta-externalagent
+User-Agent: cohere-ai
+User-Agent: CCBot
+User-Agent: omgili
+User-Agent: Diffbot
+User-Agent: omgilibot
+User-Agent: BaiduAI Spider
+User-Agent: ByteDanceBot
+User-Agent: AlibabaBot
+User-Agent: TencentBot
+User-Agent: ZhipuAI Bot
+User-Agent: iFlyBot
+User-Agent: DoubaoBot
+Disallow: /
